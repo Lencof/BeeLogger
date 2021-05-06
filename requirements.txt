@@ -1,1 +1,6 @@
-
+subprocess
+urllib2
+pythoncom
+pyHook
+smtplib
+shutil
