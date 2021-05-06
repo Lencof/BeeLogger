@@ -4,6 +4,8 @@
 # Written by: * Alisson Moretto - 4w4k3
 # https://github.com/4w4k3/BeeLogger
 # Licensed under the BSD-3-Clause
+import os
+import sys
 import subprocess
 import urllib2
 
